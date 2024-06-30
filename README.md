@@ -37,7 +37,7 @@ I'm a passionate Full-Stack Developer with expertise in front-end and back-end t
 
 - **Email**: [your.email@example.com]
 - **LinkedIn**: [www.linkedin.com/in/nitendra-singh-chauhan-b2b7ab1b0]
-- **GitHub**: [nitendra-1]
+- **GitHub**: [https://github.com/nitendra-1]
 
 Feel free to check out my repositories and connect with me on LinkedIn!
 
