@@ -18,7 +18,7 @@ I'm a passionate Full-Stack Developer with expertise in front-end and back-end t
 ## 📫 Contact Me
 
 - **Email**: [nitendra.singh1612@gmail.com]
-- **LinkedIn**: [www.linkedin.com/in/nitendrachauhan]
+- **LinkedIn**: [www.linkedin.com/in/nitendra-singh]
 - **GitHub**: [https://github.com/nitendra-1]
 
 Feel free to check out my repositories and connect with me on LinkedIn!
