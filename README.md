@@ -13,24 +13,6 @@ I'm a passionate Full-Stack Developer with expertise in front-end and back-end t
 
 ## 🌟 Projects
 
-### [Project Name 1]
-- **Description**: Brief description of the project.
-- **Tech Stack**: React, Next.js, Node.js, Express, MongoDB
-- **Features**: Key features of the project.
-- **Repository**: [GitHub Repository Link](#)
-
-### [Project Name 2]
-- **Description**: Brief description of the project.
-- **Tech Stack**: React, JavaScript, Node.js, Express
-- **Features**: Key features of the project.
-- **Repository**: [GitHub Repository Link](#)
-
-### [Project Name 3]
-- **Description**: Brief description of the project.
-- **Tech Stack**: Next.js, TypeScript, MongoDB
-- **Features**: Key features of the project.
-- **Repository**: [GitHub Repository Link](#)
-
 ## 📈 Achievements
 
 ## 📫 Contact Me
